@@ -40,4 +40,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
+📫 **How to reach me**  
+- Email: erijbenamor6@gmail.com  
+- LinkedIn: [erij-ben-amor](https://www.linkedin.com/in/erij-ben-amor-b4b286244)  
+
+Thanks for stopping by! 😊
 ###
