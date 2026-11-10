@@ -13,6 +13,7 @@ Tunisia.
 
 [Portfolio](https://erijbenamor-portfolio.netlify.app/) ·
 [LinkedIn](https://www.linkedin.com/in/erij-ben-amor-b4b286244/) ·
+[Credly](https://www.credly.com/users/erij-ben-amor/badges) ·
 [Email](mailto:erijbenamor6@gmail.com)
 
 ---
