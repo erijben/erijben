@@ -1,47 +1,107 @@
-# Hey 👋 What's up?
+# Hi, I'm Erij Ben Amor 👋
 
-My name is Erij, and I'm a software engineering student from Tunisia 🇹🇳.  
-I'm passionate about **web development, mobile apps (Flutter)** and **IoT** solutions.
+### Software Engineering Student · Full-Stack Development & Applied AI
 
----
+I build web applications and integrate AI features that help users
+search information, automate tasks, and make better use of their data.
 
-### ✨ About me
-- ✨ Creating bugs since 2021 (but I'm getting better every day! 😅)  
-- 📚 Currently learning **Flutter** and **advanced Node.js**  
-- 🎯 Goals: **Secure a summer internship** to apply my skills in real-world projects and learn from experienced developers.  
-- 🤓 Fun fact: I love creating UI prototypes on Figma and turning them into real apps!
+I'm a final-year Software Engineering student at the
+**Institut Supérieur des Sciences Appliquées et de Technologie de Sousse**,
+Tunisia.
 
----
+🎯 **Looking for a 6-month end-of-studies internship in France,
+starting February 1, 2027.**
 
-### 🛠️ I code with
-<p align="left">
- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-</p>
+[Portfolio](https://erijbenamor-portfolio.netlify.app/) ·
+[LinkedIn](https://www.linkedin.com/in/erij-ben-amor-b4b286244/) ·
+[Email](mailto:erijbenamor6@gmail.com)
 
 ---
 
-📫 **How to reach me**  
-- Email: erijbenamor6@gmail.com  
-- LinkedIn: [erij-ben-amor](https://www.linkedin.com/in/erij-ben-amor-b4b286244)  
+## 🧩 What I work on
 
-Thanks for stopping by! 😊
+- **Full-stack applications:** React, TypeScript, Node.js, and Laravel.
+- **Python APIs and microservices:** FastAPI and backend integration.
+- **Applied Generative AI:** document assistants, RAG pipelines,
+  local LLMs, and semantic search.
+- **Data-driven features:** stock forecasting, reporting,
+  and business workflow automation.
+
+I enjoy connecting software engineering with practical AI applications,
+from the user interface to the API and the data layer.
+
+## 🛠️ Technical Stack
+
+| Area | Technologies |
+|------|--------------|
+| Frontend | React, TypeScript, JavaScript, HTML, CSS |
+| Backend | Python, FastAPI, Node.js, Express, Laravel |
+| AI & Retrieval | RAG, LLM integration, Ollama, embeddings, vector search |
+| Databases | PostgreSQL, pgvector, MongoDB, MongoDB Atlas Vector Search, MySQL |
+| Tools | Git, GitHub, Docker, Postman, Swagger, Figma |
+| Other experience | Java, Django REST Framework, Symfony, IoT |
+
+## 🚀 Selected Projects
+
+### SmartCommerce AI — Internship Project
+An e-commerce platform combining web development and applied AI.
+
+- Developed a backend with **45 Laravel API routes**
+  and **2 Python/FastAPI microservices**.
+- Integrated a business assistant, document-based RAG,
+  stock forecasting, and intelligent reporting.
+- Worked with React, TypeScript, MySQL, PostgreSQL/pgvector,
+  and local models through Ollama.
+
+### UniCursus / UniHelp — Academic Project
+A university platform with a document-based AI assistant.
+
+- Built a RAG workflow covering document chunking,
+  embeddings, vector retrieval, and answer generation.
+- Connected a React/TypeScript interface with backend services
+  using Node.js, FastAPI, PostgreSQL/pgvector, and Ollama.
+
+### MongoDB Movie Search — Personal Project
+Semantic movie search using MongoDB Atlas and local embeddings.
+
+- Generated embeddings locally with Ollama.
+- Implemented similarity search with MongoDB Atlas Vector Search.
+- Connected an Express API to a React/TypeScript interface.
+
+[Explore the repository →](https://github.com/erijben/mongodb-movie-search)
+
+### IntraTrack — Previous End-of-Studies Project
+A network monitoring and IT asset management application.
+
+- Implemented network availability checks, alerts,
+  real-time updates, and reporting.
+- Added equipment inventory, RFID/NFC tracking,
+  and intervention management.
+- Built with React, Node.js, Express, MongoDB, and Socket.IO.
+
+## 📚 Continuous Learning
+
+My recent learning focuses on AI applications and data retrieval:
+
+- **MongoDB:** Building RAG Apps, AI-Powered Search with Vector Search,
+  and Building AI Agents.
+- **Anthropic:** Claude Code 101 and Claude Platform 101.
+- **NVIDIA:** Accelerated Data Science, Computer Vision for
+  Industrial Inspection, and AI for Predictive Maintenance.
+- **Google Cloud:** Preparing for the Generative AI Leader certification.
+
+I turn what I learn into practical projects and share my work here.
+
+## 🤝 Let's Connect
+
+I'm interested in internship opportunities involving
+**software engineering, full-stack development, applied AI,
+RAG, and AI agents**.
+
+📍 Based in Tunisia · Seeking an internship in France  
+📅 Available from February 1, 2027 · 6 months  
+🌍 French, English & Arabic
+
+[Portfolio](https://erijbenamor-portfolio.netlify.app/) ·
+[LinkedIn](https://www.linkedin.com/in/erij-ben-amor-b4b286244/) ·
+[Email](mailto:erijbenamor6@gmail.com)
