@@ -6,11 +6,10 @@ I build web applications and integrate AI features that help users
 search information, automate tasks, and make better use of their data.
 
 I'm a final-year Software Engineering student at the
-**Institut Supérieur des Sciences Appliquées et de Technologie de Sousse**,
+**Higher Institute of Applied Sciences and Technology of Sousse (ISSAT Sousse)**,
 Tunisia.
 
-🎯 **Looking for a 6-month end-of-studies internship in France,
-starting February 1, 2027.**
+🎯 **Looking for a 6-month end-of-studies internship, starting February 1, 2027.**
 
 [Portfolio](https://erijbenamor-portfolio.netlify.app/) ·
 [LinkedIn](https://www.linkedin.com/in/erij-ben-amor-b4b286244/) ·
