@@ -38,7 +38,6 @@ A university platform with a document-based AI assistant. The RAG workflow combi
 
 **MongoDB Movie Search — Personal Project**  
 A semantic search application using locally generated Ollama embeddings and MongoDB Atlas Vector Search, connected to an Express API and a React/TypeScript interface.  
-[Explore the repository →](https://github.com/erijben/mongodb-movie-search)
 
 **IntraTrack — Previous End-of-Studies Project**  
 A network monitoring and IT asset management application built with React, Node.js, Express, and MongoDB. It includes availability checks, alerts, real-time updates, equipment inventory, RFID/NFC tracking, intervention management, and reporting.
